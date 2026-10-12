@@ -1,0 +1,18 @@
+node_modules/
+dist/
+vite-dev.log
+vite-dev-error.log
+.env
+.env.*
+!.env.example
+
+# Backend: runtime data (do not commit DB contents)
+server/data/
+
+# AI tool local config (may contain API keys)
+.claude/
+.codex/
+.continue/
+
+# Reference copy of the Next.js app (used only as a design reference)
+nee-noi-debt-planner/

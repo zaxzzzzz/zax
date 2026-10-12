@@ -1,0 +1,114 @@
+[
+  {
+    "bankId": "KRUNGSRI",
+    "bankName": "ธนาคารกรุงศรีอยุธยา",
+    "packageName": "สินเชื่อบ้านกรุงศรีรีไฟแนนซ์ (ทางเลือก 1)",
+    "avg3YearRate": 2.55,
+    "mrrReference": 7.4,
+    "minIncome": 15000,
+    "freeAppraisal": true,
+    "freeMortgageFee": true,
+    "highlights": [
+      "ปีที่ 1-2 ดอกเบี้ยเพียง 2.20%",
+      "เฉลี่ย 3 ปีต่ำพิเศษ 2.55% (ทางเลือก 1) หรือ 2.90% (ทางเลือก 2 ฟรีค่าจดจำนอง 1%)"
+    ],
+    "sourceUrl": "https://www.krungsri.com/th/personal/loans/home-loans/refinance",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "bankId": "GHBANK",
+    "bankName": "ธนาคารอาคารสงเคราะห์",
+    "packageName": "โครงการสินเชื่อบ้านรีไฟแนนซ์ ธอส.",
+    "avg3YearRate": 2.99,
+    "mrrReference": 6.545,
+    "minIncome": 10000,
+    "freeAppraisal": true,
+    "freeMortgageFee": false,
+    "highlights": [
+      "ดอกเบี้ยเฉลี่ย 3 ปี 2.99%",
+      "ฟรีค่าประเมินราคาหลักประกัน"
+    ],
+    "sourceUrl": "https://www.ghbank.co.th/product/loan",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "bankId": "KBANK",
+    "bankName": "ธนาคารกสิกรไทย",
+    "packageName": "สินเชื่อบ้านรีไฟแนนซ์ กสิกรไทย",
+    "avg3YearRate": 2.99,
+    "mrrReference": 7.3,
+    "minIncome": 15000,
+    "freeAppraisal": true,
+    "freeMortgageFee": false,
+    "highlights": [
+      "ดอกเบี้ยเฉลี่ย 3 ปีเริ่มต้น 2.99%",
+      "รวมหนี้สินเชื่อบุคคล/บัตรเครดิตลดดอกเบี้ย"
+    ],
+    "sourceUrl": "https://www.kasikornbank.com/th/personal/loan/homeloan/pages/refinance.aspx",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "bankId": "SCB",
+    "bankName": "ธนาคารไทยพาณิชย์",
+    "packageName": "สินเชื่อบ้านรีไฟแนนซ์ SCB",
+    "avg3YearRate": 2.99,
+    "mrrReference": 7.3,
+    "minIncome": 15000,
+    "freeAppraisal": true,
+    "freeMortgageFee": false,
+    "highlights": [
+      "อนุมัติไว วงเงินสูงสุด 100%",
+      "รวบหนี้เป็นก้อนเดียวผ่อนทางเดียว"
+    ],
+    "sourceUrl": "https://www.scb.co.th/th/personal-banking/loans/home-loans/refinance-loan.html",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "bankId": "GSB",
+    "bankName": "ธนาคารออมสิน",
+    "packageName": "สินเชื่อเคหะ รีไฟแนนซ์",
+    "avg3YearRate": 2.99,
+    "mrrReference": 6.845,
+    "minIncome": 15000,
+    "freeAppraisal": true,
+    "freeMortgageFee": true,
+    "highlights": [
+      "ผ่อนต่ำ ดอกเบี้ยคงที่ปีแรก",
+      "รวมหนี้รายย่อยเพิ่มวงเงินกู้"
+    ],
+    "sourceUrl": "https://www.gsb.or.th/personal/refinance/",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "bankId": "TTB",
+    "bankName": "ธนาคารทหารไทยธนชาต",
+    "packageName": "สินเชื่อบ้านรีไฟแนนซ์ ttb",
+    "avg3YearRate": 3.25,
+    "mrrReference": 7.83,
+    "minIncome": 15000,
+    "freeAppraisal": true,
+    "freeMortgageFee": true,
+    "highlights": [
+      "ฟรีค่าจดจำนอง 1%",
+      "ฟรีค่าประเมินราคาหลักประกัน"
+    ],
+    "sourceUrl": "https://www.ttbbank.com/th/personal/loans/home-loan/home-refinance",
+    "lastUpdated": "2026-09-01"
+  },
+  {
+    "bankId": "CIMBT",
+    "bankName": "ธนาคารซีไอเอ็มบี ไทย",
+    "packageName": "สินเชื่อรีไฟแนนซ์บ้าน CIMB Thai",
+    "avg3YearRate": 3.49,
+    "mrrReference": 8.25,
+    "minIncome": 30000,
+    "freeAppraisal": true,
+    "freeMortgageFee": true,
+    "highlights": [
+      "เฉลี่ย 3 ปีแรกต่ำพิเศษ 3.49%",
+      "ฟรีค่าจดจำนองสูงสุด 200,000 บาท"
+    ],
+    "sourceUrl": "https://www.cimbthai.com/th/personal/products/mortgages/refinance-home-loan.html",
+    "lastUpdated": "2026-09-01"
+  }
+]

@@ -1,0 +1,17 @@
+[TEMPLATE]
+# Gemini API Key for AI Debt Statement OCR & Chat features (client-side fallback)
+VITE_GEMINI_API_KEY=
+# Gemini API Key for the Admin Backend server (npm run server) — preferred:
+# banner analysis runs server-side so the key is never exposed to users.
+# Falls back to VITE_GEMINI_API_KEY when unset.
+GEMINI_API_KEY=
+
+# Supabase Cloud Database credentials
+VITE_SUPABASE_URL=
+VITE_SUPABASE_ANON_KEY=
+# Optional: Gemini model for banner vision analysis (default: gemini-3.6-flash)
+# GEMINI_MODEL=gemini-3.6-flash
+# Optional: folder for uploaded promo banner images (default: server/data/uploads)
+# PROMO_UPLOADS_DIR=server/data/uploads
+# Port for the Admin Backend API server (default: 8787)
+# PORT=8787
